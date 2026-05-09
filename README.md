@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# <span style="color:#ff5c8a;">Hello! I'm Aastha Priya</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=FF5EA8&center=true&vCenter=true&width=700&lines=Hello!+I'm+Aastha+Priya" />
 
-### <span style="color:#8b5cf6;">exploring open source ✨</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=exploring+open+source+✨" />
 
 </div>
 
