@@ -72,6 +72,9 @@ Learning:
 - 🧠 Turning curiosity into projects
 
 ---
+<p align="center">
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/KittyGameGif.gif?raw=true" width="360" alt="Kitty Game Demo"/>
+</p>
 
 # 🤝 Let's Connect
 
