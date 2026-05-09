@@ -1,7 +1,9 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+<div align="center">
 
+# <span style="color:#ff5c8a;">Hello! I'm Aastha Priya</span>
+
+### <span style="color:#8b5cf6;">exploring open source ✨</span>
 
 </div>
 
