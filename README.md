@@ -1,12 +1,8 @@
 
 
-# ✨ Hey, I'm Aastha  
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Aastha. Exploring open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<div align="center">
-
-### 🌙 Building ideas, breaking systems, learning endlessly.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Backend+%26+Security+Enthusiast;Building+with+Node.js+%26+AI;Exploring+Cloud+%26+DevOps;Always+learning+something+new+✨" />
+<br />
 
 </div>
 
