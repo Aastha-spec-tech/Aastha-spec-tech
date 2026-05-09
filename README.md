@@ -1,16 +1,179 @@
-## Hi there 👋
+# ✨ Hey, I'm Aastha  
 
-<!--
-**Aastha-spec-tech/Aastha-spec-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🌙 Building ideas, breaking systems, learning endlessly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Backend+%26+Security+Enthusiast;Building+with+Node.js+%26+AI;Exploring+Cloud+%26+DevOps;Always+learning+something+new+✨" />
+
+</div>
+
+---
+
+## 🌌 About Me
+
+```yaml
+Name: Aastha
+Focus:
+  - Backend Development
+  - Open Source
+  - AI + Automation
+  - Security Research
+  - DevOps & Cloud
+
+Currently:
+  - Contributing to CNCF / LFX projects
+  - Building SaaS & automation tools
+  - Exploring scalable backend systems
+
+Learning:
+  - Kubernetes
+  - Advanced Security
+  - Cloud Infrastructure
+  - AI Workflows
+```
+
+---
+
+# ✨ Hey, I'm Aastha  
+
+<div align="center">
+
+### 🌙 Building ideas, breaking systems, learning endlessly.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Backend+%26+Security+Enthusiast;Building+with+Node.js+%26+AI;Exploring+Cloud+%26+DevOps;Always+learning+something+new+✨" />
+
+</div>
+
+---
+
+## 🌌 About Me
+
+```yaml
+Name: Aastha
+Focus:
+  - Backend Development
+  - Open Source
+  - AI + Automation
+  - Security Research
+  - DevOps & Cloud
+
+Currently:
+  - Contributing to CNCF / LFX projects
+  - Building SaaS & automation tools
+  - Exploring scalable backend systems
+
+Learning:
+  - Kubernetes
+  - Advanced Security
+  - Cloud Infrastructure
+  - AI Workflows
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aastha-spec-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha-spec-tech&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🌠 Current Journey
+
+- 🚀 Contributing to open-source ecosystems
+- 🔐 Learning practical application security
+- 🤖 Building AI-powered workflows
+- ☁️ Exploring cloud-native tooling
+- 🧠 Turning curiosity into projects
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/Aastha-spec-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 Coding... Learning... Vibing...
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0M2c1dXg1dGR4eTZ0eDg0eW93eXg3Y3B3aXJmM2h5N2Y1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+
+### 🎵 Totoro and friends relaxing after a long coding session
+
+</div>
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aastha-spec-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha-spec-tech&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🌠 Current Journey
+
+- 🚀 Contributing to open-source ecosystems
+- 🔐 Learning practical application security
+- 🤖 Building AI-powered workflows
+- ☁️ Exploring cloud-native tooling
+- 🧠 Turning curiosity into projects
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/Aastha-spec-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 Coding... Learning... Vibing...
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0M2c1dXg1dGR4eTZ0eDg0eW93eXg3Y3B3aXJmM2h5N2Y1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+
+### 🎵 Totoro and friends relaxing after a long coding session
+
+</div>
