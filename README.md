@@ -17,7 +17,6 @@ Focus:
   - Backend Development
   - Open Source
   - AI + Automation
-  - Security Research
   - DevOps & Cloud
 
 Currently:
@@ -27,7 +26,6 @@ Currently:
 
 Learning:
   - Kubernetes
-  - Advanced Security
   - Cloud Infrastructure
   - AI Workflows
 ```
