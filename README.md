@@ -27,7 +27,7 @@ Currently:
 Learning:
   - Kubernetes
   - Cloud Infrastructure
-  - AI Workflows
+  - AI Workflows.
 ```
 
 ---
